@@ -3,11 +3,22 @@
 body{
     background-color: #D3FFFB;
     font-family: 'Noto Serif', sans-serif;
+    text-align: center; /* Center align all elements */
 }
 
 h1,h2,h3 {
     margin: 0;
     font-family: 'Noto Serif', serif;
+}
+
+ul {
+    text-align: center; 
+    padding-left: auto; 
+}
+
+ul li {
+    text-align: center; 
+    list-style-position: inside; 
 }
 
 .sr-only {
