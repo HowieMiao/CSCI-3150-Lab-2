@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body{
+    background-color: #D3FFFB;
+    font-family: 'Noto Serif', sans-serif;
+}
+
+h1,h2,h3 {
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+}
+
 .sr-only {
     border: 0;
     clip: rect(0, 0, 0, 0);
