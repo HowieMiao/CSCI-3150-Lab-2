@@ -3,7 +3,7 @@
 body{
     background-color: #D3FFFB;
     font-family: 'Noto Serif', sans-serif;
-    text-align: center; /* Center align all elements */
+text-align: center; /* Center align all elements */    
 }
 
 h1,h2,h3 {
@@ -12,6 +12,7 @@ h1,h2,h3 {
 }
 
 ul {
+    list-style-type: none; /* Remove bullets */
     text-align: center; 
     padding-left: auto; 
 }
